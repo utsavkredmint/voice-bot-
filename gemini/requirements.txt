@@ -1,0 +1,9 @@
+streamlit
+google-genai
+pyaudio
+nest_asyncio
+python-dotenv
+numpy
+sounddevice
+simpleaudio
+#streamlit run gemini.py      
